@@ -33,7 +33,10 @@ names:
   15: Chlorella sp
   16: Amphora sp
   17: Fragilaria sp
+  18: Pinnularia sp
+  19: Phacus sp
+  20: Tetraedron sp
 
 
 # Download script/URL (optional)
-download: https://ultralytics.com/assets/coco128.zip
+# download: https://ultralytics.com/assets/coco128.zip
