@@ -15,27 +15,15 @@ test:  # test images (optional)
 
 # Classes
 names:
-  0: Chaetoceros sp
-  1: Cymbella sp
-  2: Entosiphon sp
-  3: Tetraselmis sp
-  4: Peridinium sp
-  5: Oscillatoria sp
-  6: Navicula sp
-  7: Gonyaulax sp
-  8: Cyclotella sp
-  9: Phaeodactylum sp
-  10: Gymnodinium sp
-  11: Spirulina sp
-  12: Anabaena sp
-  13: Chlamydomonas sp
-  14: Nitzschia sp
-  15: Chlorella sp
-  16: Amphora sp
-  17: Fragilaria sp
-  18: Pinnularia sp
-  19: Phacus sp
-  20: Tetraedron sp
+  0: Phaeodactylum sp
+  1: Oscillatoria sp
+  2: Chaetoceros sp
+  3: Amphiprora sp
+  4: Chlamydomonas sp
+  5: Anabaena sp
+  6: Nitzschia sp
+  7: Gymnodinium sp
+  8: Entosiphon sp
 
 
 # Download script/URL (optional)
