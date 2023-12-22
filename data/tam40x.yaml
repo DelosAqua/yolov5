@@ -15,15 +15,20 @@ test:  # test images (optional)
 
 # Classes
 names:
-  0: Phaeodactylum sp
-  1: Oscillatoria sp
-  2: Chaetoceros sp
-  3: Amphiprora sp
-  4: Chlamydomonas sp
-  5: Anabaena sp
-  6: Nitzschia sp
-  7: Gymnodinium sp
-  8: Entosiphon sp
+  0: Chlorella sp
+  1: Phaeodactylum sp
+  2: Oscillatoria sp
+  3: Chaetoceros sp
+  4: Amphiprora sp
+  5: Chlamydomonas sp
+  6: Gymnodinium sp
+  7: Tetraedron sp
+  8: Anabaena sp
+  9: Nitzschia sp
+  10: Entosiphon sp
+  11: Cymbella sp
+  12: Amphora sp
+  13: Vorticella sp
 
 
 # Download script/URL (optional)
